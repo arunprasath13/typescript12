@@ -40,3 +40,6 @@ let employeeData:Employees = {
     // age: 25,
     isPermanent: true
 }
+
+let a:number = 1
+console.log(a);

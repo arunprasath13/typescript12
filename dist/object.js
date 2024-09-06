@@ -25,3 +25,5 @@ let employeeData = {
     // age: 25,
     isPermanent: true
 };
+let a = 1;
+console.log(a);
