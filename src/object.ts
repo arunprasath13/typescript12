@@ -43,3 +43,7 @@ let employeeData:Employees = {
 
 let a:number = 1
 console.log(a);
+
+
+let b:number = 1;
+console.log(b)
